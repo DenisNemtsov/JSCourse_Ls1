@@ -1,1 +1,2 @@
-console.log('Test console output!');
+let text = 'New test console output!';
+console.log(text);
